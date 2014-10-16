@@ -1,0 +1,70 @@
+
+# NJ -- clickwrapped. Get manually at www.njtransit.com/developer
+
+# Amtrak -- feed on GTFS data exchange obtained through FOIA
+Amtrak 2014,http://gtfs.s3.amazonaws.com/amtrak_20140723_0354.zip
+
+# RI -- Only one direct link, from GTFS Data Exchange
+RI RIPTA,http://www.ripta.com/googledata/current/google_transit.zip
+
+# MA -- scraped from http://www.massdot.state.ma.us/developersdata.aspx
+MA MBTA Boston,http://mbta.com/uploadedfiles/MBTA_GTFS.zip
+MA Berkshire RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/brta_google_transit.zip
+MA Brockton Area Transit Authority RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/bat_google_transit.zip
+MA Cape Ann RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/cata_google_transit.zip
+MA Cape Cod RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/ccrta_google_transit.zip
+MA Franklin RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/frta_google_transit.zip
+MA Greater Attleboro Taunton Regional Transit (GATRA),http://www.massdot.state.ma.us/Portals/0/docs/developers/gatra_google_transit.zip
+MA Lowell RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/lrta_google_transit.zip
+MA Merrimack Valley RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/mvrta_google_transit.zip
+MA Metrowest RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/mwrta_google_transit.zip
+MA Montachusett RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/mart_google_transit.zip
+MA Nantucket RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/nrta_google_transit.zip
+MA Pioneer Valley RTA GTFS files,http://www.pvta.com/g_trans/google_transit.zip
+MA Southeastern RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/srta_google_transit.zip
+MA Vineyard Transit Authority GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/vta_google_transit.zip
+MA Worcester RTA GTFS files,http://www.massdot.state.ma.us/Portals/0/docs/developers/wrta_google_transit.zip
+MA Massachusetts Cape Island Commuter Ferry,http://www.massdot.state.ma.us/Portals/0/docs/developers/ferries_google_transit.zip
+MA Bloom Tours,http://www.massdot.state.ma.us/Portals/0/docs/developers/Bloom_google_transit.zip
+MA Coach Bus Lines,http://www.massdot.state.ma.us/Portals/0/docs/developers/coach_google_transit.zip
+MA DATTCO Motorcoach,http://www.massdot.state.ma.us/Portals/0/docs/developers/dattco_google_transit.zip
+MA Peter Pan,http://www.massdot.state.ma.us/Portals/0/docs/developers/peter_pan_google_transit.zip
+MA Plymouth & Brockton Street Railway Co,http://www.massdot.state.ma.us/Portals/0/docs/developers/PB_google_transit.zip
+MA Yankee Line,http://www.massdot.state.ma.us/Portals/0/docs/developers/yankee_google_transit.zip
+
+# PA -- SEPTA has clickwrap, not sure this will work http://www2.septa.org/developer/
+PA SEPTA,http://www2.septa.org/developer/download.php?fc=septa_gtfs.zip&download=download
+
+# NY based on bmander's script
+NY New York City Transit Subway, http://web.mta.info/developers/data/nyct/subway/google_transit.zip
+NY Bronx Bus,http://web.mta.info/developers/data/nyct/bus/google_transit_bronx.zip
+NY Brooklyn Bus,http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip
+NY Manhattan Bus,http://web.mta.info/developers/data/nyct/bus/google_transit_manhattan.zip
+NY Queens Bus,http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip
+NY Staten Island Bus, http://web.mta.info/developers/data/nyct/bus/google_transit_staten_island.zip
+NY Metro North,http://web.mta.info/developers/data/mnr/google_transit.zip
+NY NYC Bus Company,http://web.mta.info/developers/data/busco/google_transit.zip
+NY Bee-Line Bus,http://511ny.org/uploadedFiles/Developer/WestchesterBeeline_gtfs_2014-8-11.zip
+NY Niagara Frontier TA,http://511ny.org/uploadedFiles/Developer/NFTA_gtfs_2014-08-28.zip
+NY CENTRO Syracuse,http://511ny.org/uploadedFiles/Developer/CNYRTA-SYR_gtfs_2014-9-12.zip
+NY CENTRO Cayuga,http://511ny.org/uploadedFiles/Developer/CNYRTA-AUB_gtfs_2014-9-11.zip
+NY CENTRO Rome,http://511ny.org/uploadedFiles/Developer/CNYRTA-ROM_gtfs_2014-9-10.zip
+NY CENTRO Utica,http://511ny.org/uploadedFiles/Developer/CNYRTA-UTI_gtfs_2014-9-10.zip
+NY CENTRO Oswego,http://511ny.org/uploadedFiles/Developer/CNYRTA-OSW_gtfs_2014-9-10.zip
+NY Rochester-Genesee TA,http://511ny.org/uploadedFiles/Developer/RGRTA_gtfs_2014-09-04.zip
+NY NICE,http://511ny.org/uploadedFiles/Developer/NICE_gtfs_2014-05-16.zip
+NY Tappan-Zee,https://geopower.jws.com/rockland/DownloadData.jsp?pck_oid=78680
+NY Capital District TA,http://www.cdta.org/schedules/google_transit.zip
+NY Norwalk TD,http://rfshared.s3.amazonaws.com/gtfs/norwalk_gtfs.zip
+NY Port Authority Trans-Hudson,http://trilliumtransit.com/transit_feeds/path-nj-us/gtfs.zip
+NY Long Island Rail Road,http://web.mta.info/developers/data/lirr/google_transit.zip
+
+# CT -- scraped from http://www.cttransit.com/about/developers/gtfsdata/Main.asp
+CT Hartford,http://www.cttransit.com/uploads_GTFS/googleha_transit.zip
+CT New Haven,http://www.cttransit.com/uploads_GTFS/googlenh_transit.zip
+CT Stamford,http://www.cttransit.com/uploads_GTFS/googlestam_transit.zip
+CT Waterbury,http://www.cttransit.com/uploads_GTFS/googlewat_transit.zip
+CT New Britain,http://www.cttransit.com/uploads_GTFS/googlenb_transit.zip
+CT Meridien,http://www.cttransit.com/uploads_GTFS/googleme_transit.zip
+CT Shore Line East,http://www.shorelineeast.com/google_transit.zip
+
