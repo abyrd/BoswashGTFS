@@ -33,6 +33,7 @@ MA Plymouth & Brockton Street Railway Co,http://www.massdot.state.ma.us/Portals/
 MA Yankee Line,http://www.massdot.state.ma.us/Portals/0/docs/developers/yankee_google_transit.zip
 
 # PA -- SEPTA has clickwrap, not sure this will work http://www2.septa.org/developer/
+# WARNING this one contains two other zipped GTFS feeds, and must be unzipped
 PA SEPTA,http://www2.septa.org/developer/download.php?fc=septa_gtfs.zip&download=download
 
 # NY based on bmander's script
