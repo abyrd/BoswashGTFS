@@ -1,5 +1,7 @@
 
 # NJ -- clickwrapped. Get manually at www.njtransit.com/developer
+# PA -- SEPTA has weak clickwrap, grab feeds http://www2.septa.org/developer/
+# WARNING SEPTA feed contains two other zipped GTFS feeds, and must be unzipped.
 
 # Amtrak -- feed on GTFS data exchange obtained through FOIA
 Amtrak 2014,http://gtfs.s3.amazonaws.com/amtrak_20140723_0354.zip
@@ -31,10 +33,6 @@ MA DATTCO Motorcoach,http://www.massdot.state.ma.us/Portals/0/docs/developers/da
 MA Peter Pan,http://www.massdot.state.ma.us/Portals/0/docs/developers/peter_pan_google_transit.zip
 MA Plymouth & Brockton Street Railway Co,http://www.massdot.state.ma.us/Portals/0/docs/developers/PB_google_transit.zip
 MA Yankee Line,http://www.massdot.state.ma.us/Portals/0/docs/developers/yankee_google_transit.zip
-
-# PA -- SEPTA has clickwrap, not sure this will work http://www2.septa.org/developer/
-# WARNING this one contains two other zipped GTFS feeds, and must be unzipped
-PA SEPTA,http://www2.septa.org/developer/download.php?fc=septa_gtfs.zip&download=download
 
 # NY based on bmander's script
 NY New York City Transit Subway, http://web.mta.info/developers/data/nyct/subway/google_transit.zip
