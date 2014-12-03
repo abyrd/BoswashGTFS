@@ -55,7 +55,7 @@ NY NICE,http://511ny.org/uploadedFiles/Developer/NICE_gtfs_2014-05-16.zip
 NY Tappan-Zee,https://geopower.jws.com/rockland/DownloadData.jsp?pck_oid=78680
 NY Capital District TA,http://www.cdta.org/schedules/google_transit.zip
 NY Norwalk TD,http://rfshared.s3.amazonaws.com/gtfs/norwalk_gtfs.zip
-NY Port Authority Trans-Hudson,http://trilliumtransit.com/transit_feeds/path-nj-us/gtfs.zip
+NY Port Authority Trans-Hudson,http://trilliumtransit.com/transit_feeds/path-nj-us/path-nj-us.zip
 NY Long Island Rail Road,http://web.mta.info/developers/data/lirr/google_transit.zip
 
 # CT -- scraped from http://www.cttransit.com/about/developers/gtfsdata/Main.asp
